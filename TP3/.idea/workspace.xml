@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2ebc4fa-af92-4e81-897d-9a03baa02a2e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="332" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RNBJxMGJCsBQWh4ysWUxeQ5IU6" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="tp3.test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MoneyTest">
+    <configuration name="ConversionTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp3.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tp3.test" />
+      <option name="MAIN_CLASS_NAME" value="tp3.test.ConversionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversionTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp3.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tp3.test" />
+      <option name="MAIN_CLASS_NAME" value="tp3.test.ConversionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversionTest" type="JUnit" factoryName="JUnit">
+      <module name="TP3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp3.Conversion" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tp3.test" />
+      <option name="MAIN_CLASS_NAME" value="tp3.test.ConversionTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TP3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp3.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="tp3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tp3.test" />
+      <option name="MAIN_CLASS_NAME" value="tp3.test.MoneyTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ConversionTest" />
+      <item itemvalue="JUnit.MoneyTest" />
+      <item itemvalue="JUnit.ConversionTest (1)" />
+      <item itemvalue="JUnit.ConversionTest (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConversionTest (2)" />
+        <item itemvalue="JUnit.ConversionTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2ebc4fa-af92-4e81-897d-9a03baa02a2e" name="Default Changelist" comment="" />
+      <created>1569497604510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569497604510</updated>
+      <workItem from="1569497605695" duration="6629000" />
+      <workItem from="1569504290339" duration="1786000" />
+      <workItem from="1569563160606" duration="246000" />
+      <workItem from="1569578503470" duration="847000" />
+      <workItem from="1569579823903" duration="1201000" />
+      <workItem from="1569581081667" duration="280000" />
+      <workItem from="1569840831949" duration="1854000" />
+      <workItem from="1569847769138" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TP3$MoneyTest_shouldConvertWithDefaultConversion.ic" NAME="MoneyTest.shouldConvertWithDefaultConversion Coverage Results" MODIFIED="1569580758447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tp3.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TP3$MoneyTest.ic" NAME="MoneyTest Coverage Results" MODIFIED="1569581120217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tp3.test.*</FILTER>
+      <FILTER>tp3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TP3$ConversionTest__2_.ic" NAME="ConversionTest (2) Coverage Results" MODIFIED="1569580896006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tp3.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>

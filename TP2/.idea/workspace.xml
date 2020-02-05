@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="471179f1-503b-42f5-bab9-c0a8b2ee5e4d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="346" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Qy8mp7Y8gZ75aK8xtVompn7gbM" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="tp2.test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tp2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AllTests">
+    <configuration name="AllTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="tp2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tp2.test" />
+      <option name="MAIN_CLASS_NAME" value="tp2.test.AllTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldFailTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tp2.test" />
+      <option name="MAIN_CLASS_NAME" value="tp2.test.HelloWorldFailTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManipulationStringTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tp2.test" />
+      <option name="MAIN_CLASS_NAME" value="tp2.test.ManipulationStringTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManipulationStringTests.shouldFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tp2.test" />
+      <option name="MAIN_CLASS_NAME" value="tp2.test.ManipulationStringTests" />
+      <option name="METHOD_NAME" value="shouldFail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManipulationStringTests.shouldFailBecauseOfNullPointerException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP2" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="tp2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="tp2.test.AllTests" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="tp2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tp2.test" />
+      <option name="MAIN_CLASS_NAME" value="tp2.test.ManipulationStringTests" />
+      <option name="METHOD_NAME" value="shouldFailBecauseOfNullPointerException" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AllTests" />
+      <item itemvalue="JUnit.HelloWorldFailTests" />
+      <item itemvalue="JUnit.ManipulationStringTests" />
+      <item itemvalue="JUnit.ManipulationStringTests.shouldFail" />
+      <item itemvalue="JUnit.ManipulationStringTests.shouldFailBecauseOfNullPointerException" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AllTests" />
+        <item itemvalue="JUnit.ManipulationStringTests.shouldFailBecauseOfNullPointerException" />
+        <item itemvalue="JUnit.ManipulationStringTests" />
+        <item itemvalue="JUnit.ManipulationStringTests.shouldFail" />
+        <item itemvalue="JUnit.HelloWorldFailTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="471179f1-503b-42f5-bab9-c0a8b2ee5e4d" name="Default Changelist" comment="" />
+      <created>1568731636476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568731636476</updated>
+      <workItem from="1569496813286" duration="762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TP2$ManipulationStringTests_shouldFailBecauseOfNullPointerException.exec" NAME="ManipulationStringTests.shouldFailBecauseOfNullPointerException Coverage Results" MODIFIED="1568735405450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tp2.test.*</FILTER>
+      <FILTER>tp2.test.AllTests</FILTER>
+      <FILTER>tp2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TP2$AllTests.ic" NAME="AllTests Coverage Results" MODIFIED="1569497491235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tp2.test.*</FILTER>
+      <FILTER>tp2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
